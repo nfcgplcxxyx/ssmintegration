@@ -1,0 +1,5 @@
+com\jcfx\service\impl\StudentServiceImpl.class
+com\jcfx\mapper\StudentMapper.class
+com\jcfx\controller\StudentController.class
+com\jcfx\bean\Student.class
+com\jcfx\service\StudentService.class
